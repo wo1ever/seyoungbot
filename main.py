@@ -1,1 +1,1 @@
-print("히히히!")
+print("seyoung nim, please be strong")
